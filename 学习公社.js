@@ -103,3 +103,4 @@
 
 	}
 })();
+*.js linguist-language=java
