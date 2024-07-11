@@ -3,7 +3,7 @@
 // @namespace    学习公社
 // @version      0.3
 // @description  学习公社自动看视频、自动刷新
-// @author       LZJ,wtd修缮。
+// @author       LZJ,wtddddd修缮。
 // @match        *study.enaea.edu.cn/viewerforccvideo*
 // @match        *study.enaea.edu.cn/circleIndexRedirect*
 // ==/UserScript==
